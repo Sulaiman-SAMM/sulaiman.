@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.Zeugnis-html{
+    width: 300px;
+    height: 150px;
+    background-color: #0075FF;
+    padding: 30px;
+    /* margin-top: 50px;
+    margin-left: 50px; */
+    box-shadow: 10px 10px 20px #fff;
+    position: absolute;
+    top: 10vh;
+    left: 20vh;
+}
+.Zeugnis-css{
+    width: 300px;
+    height: 150px;
+    background-color: #0075FF;
+    padding: 30px;
+    /* margin-top: 50px;
+    margin-left: 200px; */
+    box-shadow: 10px 10px 20px #fff;
+    position: absolute;
+    top: 10vh;
+    left: 130vh;
+}
+.Zeugnis-js{
+    width: 300px;
+    height: 150px;
+    background-color: #0075FF;
+    padding: 30px;
+    /* margin-top: 50px;
+    margin-left: 350px; */
+    box-shadow: 10px 10px 20px #fff;
+    position: absolute;
+    top: 90vh;
+    left: 20vh;
+
+}
+.Zeugnis-react{
+    width: 300px;
+    height: 150px;
+    background-color: #0075FF;
+    padding: 30px;
+    /* margin-top: 50px;
+    margin-left: 500px; */
+    box-shadow: 10px 10px 20px #fff;
+    position: absolute;
+    top: 90vh;
+    left: 130vh;
+
+}
+.Zeugnis-python{
+    width: 300px;
+    height: 150px;
+    background-color: #0075FF;
+    padding: 30px;
+    /* margin-top: 50px;
+    margin-left: 650px; */
+    box-shadow: 10px 10px 20px #fff;
+    position: absolute;
+    top: 50vh;
+    left: 75vh;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    vertical-align: 40px;
+}
+.link-von-html,
+.link-von-css,
+.link-von-js,
+.link-von-react,
+.link-von-python,
+.link-von-botcamp{
+        display: flex;
+        align-items: center;
+}
+.p-html-css{
+    font-weight: bold;
+    margin-top: 13px;
+    
+}
+p{
+    font-weight: bold;
+    margin-top: 6px;
+    
+}
+.JS-R-P{
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+.Zeugnis-botcamp{
+    margin-top: 135vh;
+    width: auto;
+    background-color: #0075FF;
+    height: 200px;
+    padding-left: 30%;
+    padding-top: 50px;
+    box-shadow: 10px 10px 20px #fff;
+
+}
+.div-uber-bootcamp{
+margin-top: 40px;
+}
+.uber-bootcamp{
+    background-color: #0075FF;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    margin-left: 35%;
+    box-shadow: 10px 10px 20px #fff;
+
+
+}
